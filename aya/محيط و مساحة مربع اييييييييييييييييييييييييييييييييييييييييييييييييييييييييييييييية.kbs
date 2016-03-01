@@ -1,0 +1,20 @@
+print "ادخل العرض"
+input x
+print "ادخل الطول"
+input y
+if x=y then
+print "مربع"
+end if 
+if x<>y then
+print "مستطيل"
+end if 
+print "المساحة تساوي"
+print x+"*"+y+"="+x*y
+print "المحيط يساوي"
+print x+"*"+2+"+"+y+"*"+2+"="+x*2+y*2
+print "احداثيات نقطة من النقاط"
+clg
+color red
+input z
+input b
+rect z,b, x,y

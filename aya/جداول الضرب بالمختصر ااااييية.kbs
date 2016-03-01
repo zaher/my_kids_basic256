@@ -1,0 +1,8 @@
+print "ادخل الرقم"
+input x
+print "الجدول هو"
+y=1
+while y<11
+print x+"*"+y+"="+x*y
+y=y+1
+end while

@@ -1,0 +1,11 @@
+print "ادخل عدد الارقام"
+input x
+print "ادخل الارقام"
+i=1
+u=0
+while i<=x
+input y
+u=y+u 
+i=i+1
+end while
+print "المتوسط الحسابي هو"+u/x

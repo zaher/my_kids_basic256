@@ -1,0 +1,10 @@
+clg
+ print "ادخل احداثيات نقطة من نقاط المربع"
+input x
+input y
+print "ادخل طول ضلع المربع"
+input a
+color red
+rect x,y, a,a
+color black
+circle a/2+x,a/2+y,a/2

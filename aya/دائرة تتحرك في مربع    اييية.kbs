@@ -1,0 +1,19 @@
+rect 0,0, 300,300
+x=150
+y=30
+a=30
+c=1
+while 1=1 
+color red, white
+circle x,y, a
+x=x+1
+y=y+1
+if x=300 then
+c=-1
+x=x+c
+end if
+if y=300 then
+c=-1
+y=y+c
+end if
+end while

@@ -1,0 +1,14 @@
+print "ما هو حجم الريشة"
+input i
+print "ما هو حجم الممحاة "
+input r
+while 1=1
+if mouseb=1 then
+color purple
+circle mousex,mousey,i
+end if
+if mouseb=2 then
+color white
+circle mousex,mousey, r
+end if
+end while

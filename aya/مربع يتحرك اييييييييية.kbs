@@ -1,0 +1,133 @@
+clg
+pause 1
+color green 
+x=40
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1 
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x+10
+rect 40,x, 90,90 
+pause 1
+clg
+x=200
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 
+pause 1
+clg
+x=x-10
+rect 40,x, 90,90 

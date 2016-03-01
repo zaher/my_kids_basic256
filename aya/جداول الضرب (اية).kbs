@@ -1,0 +1,11 @@
+input e
+print e+"*1="+e*1
+print e+"*2="+e*2
+print e+"*3="+e*3
+print e+"*4="+e*4
+print e+"*5="+e*5
+print e+"*6="+e*6
+print e+"*7="+e*7
+print e+"*8="+e*8
+print e+"*9="+e*9
+print e+"*10="+e*10

@@ -1,0 +1,12 @@
+print "ادخل اربع ارقام"
+input x
+input y
+if x<y then
+print x+"<"+y
+end if
+if x>y then
+print x+">"+y
+end if
+if x=y then
+print x+"="+y
+end if

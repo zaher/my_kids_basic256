@@ -1,0 +1,6 @@
+print "القاعدة"
+input q
+print "الارتفاع"
+input w
+print "المساحة="
+print q*w/2

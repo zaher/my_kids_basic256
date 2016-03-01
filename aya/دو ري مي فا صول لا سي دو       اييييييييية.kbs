@@ -1,0 +1,26 @@
+while 1=1
+if key=49  then
+sound 261,500
+end if
+if key=50  then
+sound 294,500
+end if
+if key=51  then
+sound 329,500
+end if
+if key=52  then
+sound 349,500
+end if
+if key=53  then
+sound 392,500
+end if
+if key=54  then
+sound 440,500
+end if
+if key=55  then
+sound 493,500
+end if
+if key=56  then
+sound 523,500
+end if
+end while

@@ -1,0 +1,5 @@
+clg
+color red
+rect 100,120, 200,230
+color blue
+rect 140,170,130,93

@@ -1,0 +1,12 @@
+print "ادخل مواليدك"
+input x
+print "عمرك هو"
+y=2015
+print y-x
+d=y-x
+if d< 15 then
+print "انت صغير"
+end if
+if d> 15 then
+print "انت كبير"
+end if

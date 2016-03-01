@@ -1,0 +1,22 @@
+print "ادخل الرقم الاول"
+input x
+print "ادخل اداة العملية الحسابية"
+input i$
+print "ادخل الرقم الثاني"
+input y
+if i$="+" then
+print x+"+"+y+"="
+print x+y
+end if
+if i$="-" then
+print x+"-"+y+"="
+print x-y
+end if
+if i$="*" then
+print x+"*"+y+"="
+print x*y
+end if
+if i$="/" then
+print x+"/"+y+"="
+print x/y
+end if

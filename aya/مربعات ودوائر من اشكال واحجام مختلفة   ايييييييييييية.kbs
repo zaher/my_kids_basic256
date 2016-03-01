@@ -1,0 +1,15 @@
+clg
+i=1
+while i<=1000000 
+color rand*green
+x=rand*200
+o=rand*400
+y=rand*100
+circle x,o, y
+color rand*green
+x=rand*200
+o=rand*200
+y=rand*250
+p=rand*250
+rect x,o, y,p
+end while

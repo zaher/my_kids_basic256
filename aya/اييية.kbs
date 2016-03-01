@@ -1,0 +1,28 @@
+clg
+color red
+rect 120,120, 160,160
+color black  
+circle 200,200, 80
+color red
+rect 140,140, 120,120
+color black 
+circle 200,200, 60
+color red
+rect 150,150, 100,100
+color black
+circle 200,200, 50
+color red
+rect 160,160, 80,80
+color black
+circle 200,200, 40
+color red
+rect 170,170, 60,60
+color black
+circle 200,200, 30
+color red
+rect 180,180, 40,40
+color black
+circle 200,200, 20
+color red
+rect 190,190, 20,20
+

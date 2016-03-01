@@ -1,0 +1,10 @@
+clg
+color red
+x=10
+rect 10,x, 30,30
+while x<250
+clg
+x=x+10
+rect 10,x, 30,30
+pause 0.1
+end while

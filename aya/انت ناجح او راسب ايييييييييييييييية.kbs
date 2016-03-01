@@ -1,0 +1,6 @@
+input x
+if x <5 then 
+print "راسب"
+else 
+print "ناجح"
+end if

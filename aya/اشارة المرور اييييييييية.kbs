@@ -1,0 +1,152 @@
+clg
+rect 70,120, 70,170
+color darkred
+circle 100,150, 20
+color darkyellow
+circle 100,200, 20
+color darkgreen
+circle 100,250, 20
+pause 2
+color red
+circle 100,150, 20
+pause 2
+color darkred
+circle 100,150, 20
+pause 1
+color yellow
+circle 100,200, 20
+pause 2
+color darkyellow
+circle 100,200, 20
+pause 1
+color green
+circle 100,250, 20
+pause 2
+color darkgreen
+circle 100,250, 20
+pause 1
+color red
+circle 100,150, 20
+pause 2
+color darkred
+circle 100,150, 20
+pause 1
+color yellow
+circle 100,200, 20
+pause 2
+color darkyellow
+circle 100,200, 20
+pause 1
+color green
+circle 100,250, 20
+pause 2
+color darkgreen
+circle 100,250, 20
+pause 2
+color red
+circle 100,150, 20
+pause 2
+color darkred
+circle 100,150, 20
+pause 1
+color yellow
+circle 100,200, 20
+pause 2
+color darkyellow
+circle 100,200, 20
+pause 1
+color green
+circle 100,250, 20
+pause 2
+color darkgreen
+circle 100,250, 20
+pause 2
+color red
+circle 100,150, 20
+pause 2
+color darkred
+circle 100,150, 20
+pause 1
+color yellow
+circle 100,200, 20
+pause 2
+color darkyellow
+circle 100,200, 20
+pause 1
+color green
+circle 100,250, 20
+pause 2
+color darkgreen
+circle 100,250, 20
+pause 2
+color red
+circle 100,150, 20
+pause 2
+color darkred
+circle 100,150, 20
+pause 1
+color yellow
+circle 100,200, 20
+pause 2
+color darkyellow
+circle 100,200, 20
+pause 1
+color green
+circle 100,250, 20
+pause 2
+color darkgreen
+circle 100,250, 20
+pause 2
+color red
+circle 100,150, 20
+pause 2
+color darkred
+circle 100,150, 20
+pause 1
+color yellow
+circle 100,200, 20
+pause 2
+color darkyellow
+circle 100,200, 20
+pause 1
+color green
+circle 100,250, 20
+pause 2
+color darkgreen
+circle 100,250, 20
+pause 2
+color red
+circle 100,150, 20
+pause 2
+color darkred
+circle 100,150, 20
+pause 1
+color yellow
+circle 100,200, 20
+pause 2
+color darkyellow
+circle 100,200, 20
+pause 1
+color green
+circle 100,250, 20
+pause 2
+color darkgreen
+circle 100,250, 20
+pause 2
+color red
+circle 100,150, 20
+pause 2
+color darkred
+circle 100,150, 20
+pause 1
+color yellow
+circle 100,200, 20
+pause 2
+color darkyellow
+circle 100,200, 20
+pause 1
+color green
+circle 100,250, 20
+pause 2
+color darkgreen
+circle 100,250, 20

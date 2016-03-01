@@ -1,0 +1,7 @@
+clg
+print "ادخل احداثيات نقطة من نقاط المربع"
+input x
+print "ادخل عرض المربع"
+input y
+print "ادخل طول المربع"
+input m

@@ -1,0 +1,26 @@
+print "ادخل السرعة المناسبة"
+input r
+color red, orange
+x=130
+y=190
+i=50
+e=30
+while 1=1
+rect x,y, i,e
+if key=16777237 then
+clg
+y=y+r
+end if
+if key=16777235 then
+clg
+y=y-r
+end if
+if key=16777234 then
+clg
+x=x-r
+end if
+if key=16777236 then
+clg
+x=x+r
+end if
+end while

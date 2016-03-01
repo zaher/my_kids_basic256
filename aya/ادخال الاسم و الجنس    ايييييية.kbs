@@ -1,0 +1,12 @@
+print "ادخل اسمك"
+input x$
+print "ادخل جنسيتك"
+print "*اذا انت ذكر اضغط *1"
+print "*ااذا انت انثى اضغط *2"
+input y
+if y=1 then
+print " انت مزعج"+x$
+end if
+if y=2 then
+print " انت لطيفة"+x$
+end if

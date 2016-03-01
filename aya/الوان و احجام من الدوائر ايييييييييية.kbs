@@ -1,0 +1,5 @@
+color rand*red
+x=rand*200
+o=rand*400
+y=rand*100
+circle x,o, y
