@@ -1,0 +1,9 @@
+print "اكيف تعرف اذا ما كنت ناجح ام لا في مادة الرياضيات /الصف السابع"
+print "اكتب العلامة"
+input x
+if x >= 250 then
+print "ناجح"
+end if 
+if x<250 then
+print "راسب"
+end if 

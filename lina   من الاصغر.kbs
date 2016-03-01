@@ -1,0 +1,8 @@
+print "ادخل رقمين لتعرف الاكبر منهما"
+input x
+input y
+if x<=y then
+print x+"<"+y
+else
+print x+">"+y
+end if

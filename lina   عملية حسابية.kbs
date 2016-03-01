@@ -1,0 +1,17 @@
+print "ادخل اشارة العملية التي تريده اي زائد او نائص او ضرب او تقسيم"
+input a$
+print "ادخل الرقمين الذين تريدهما في اجراء العملية"
+input x
+input y
+if a$="+" then
+print x+y
+endif
+if a$="*" then
+print x*y
+endif
+if a$="/" then
+print x/y
+endif
+if a$="-" then
+print x-y
+endif

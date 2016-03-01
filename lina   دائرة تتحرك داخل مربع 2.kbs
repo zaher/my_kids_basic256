@@ -1,0 +1,29 @@
+clg
+x=150
+y=60
+v=10
+t=10
+
+while true
+
+pause 0.1
+
+x=150+v
+y=60+t
+
+color green
+rect 50,50, 200,200
+color yellow
+circle x,y, 10 
+
+if x>=150 then
+
+
+endif
+
+if y>=150 then
+
+
+endif
+
+endwhile

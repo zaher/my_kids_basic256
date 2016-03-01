@@ -1,0 +1,7 @@
+color green
+rect 100,100, 200,200
+color red
+circle 200,200, 100
+color blue
+circle 150,180, 20
+circle 250,180, 20

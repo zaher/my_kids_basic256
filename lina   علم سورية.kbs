@@ -1,0 +1,10 @@
+clg
+color red
+rect 50,50, 200,50
+color black, white
+rect 50,100, 200,50
+color black
+rect 50,150, 200,50
+color green
+rect 100,115, 20,20
+rect 175,115, 20,20

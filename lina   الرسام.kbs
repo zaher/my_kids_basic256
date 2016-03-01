@@ -1,0 +1,15 @@
+clg
+print "ادخل حجم الفرشاة التي تريد"
+input k
+print "ادخل حجم الممحاة التي تريده"
+input m
+while true
+if mouseb =1 then
+color red
+circle mousex,mousey, k
+endif
+if mouseb =2 then
+color white
+circle mousex,mousey, m
+endif
+endwhile

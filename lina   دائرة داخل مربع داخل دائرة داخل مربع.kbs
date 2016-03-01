@@ -1,0 +1,10 @@
+clg
+color blue
+rect 75,75, 150,150
+color green
+circle 150,150, 75
+color red
+rect 100,100, 100,100
+color yellow
+circle 150,150, 50
+

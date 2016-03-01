@@ -1,0 +1,11 @@
+clg
+print "ادخل ضلع من اضلاع المربع"
+input x
+print "ادخل اخداثيات نقطة على الفواصل من نقاط المربع"
+input a 
+print "ادخل اخداثيات نقطة على التراتيب من نقاط المربع"
+input b
+color red
+rect a,b, x,x
+color yellow
+circle x/2+a,x/2+b, x*1/2

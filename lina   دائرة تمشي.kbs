@@ -1,0 +1,8 @@
+x=50
+while x<200
+clg
+color green
+circle x,50, 50
+x=10+x
+pause 1
+endwhile

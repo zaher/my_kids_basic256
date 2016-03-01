@@ -1,0 +1,26 @@
+print "ادخل اسمك"
+input x$
+if x$="زاهر" then
+print "انت مبرمج مذهل"
+endif
+if x$="لينة" then
+print "انت لطيفة لكن خففي نسبة العصبية"
+endif
+if x$="عمر" then
+print " ارجو منك تخفيف نسبة الغلاظة"
+endif
+if x$="اية" then
+print "انت حبابة لكن فكري قبل تحريك اعضاء جسمك"
+endif
+if x$="هدى" then
+print "انت ألطف وأروع انسانة في العالم"
+endif
+if x$="رزان " then
+print "انت لطيفة لاكن لا تكركري لينة"
+endif
+if x$="جودي" then
+print "انت لطيفة "
+endif
+if x$="رغد" then
+print "انت فتاة لطيفة جدا جدا جدا "
+endif

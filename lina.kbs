@@ -1,0 +1,32 @@
+clg
+x=160
+y=60
+i=1
+v=5
+t=5
+while true
+x=x+v
+y=y+t
+pause 0.1
+color yellow
+rect 50,50, 200,200
+color red
+circle x,y, 10
+
+if x>=240 then
+v=-5
+endif
+
+if x<60 then
+v=5
+endif
+
+if y>=240 then
+t=-5
+endif
+
+if y<60 then
+t=5
+endif
+
+endwhile

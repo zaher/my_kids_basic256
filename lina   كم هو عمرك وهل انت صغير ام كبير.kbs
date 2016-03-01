@@ -1,0 +1,11 @@
+print "هل تريد ان تعرف كم هو عمرك "
+print "ادخل مواليدك"
+input x
+print "عمرك يساوي"
+print 2015-x
+a=2015-x
+if a>=15 then
+print "انت كبير"
+else 
+print "انت صغير"
+end if

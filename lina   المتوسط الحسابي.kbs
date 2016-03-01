@@ -1,0 +1,13 @@
+print "ادخل عدد الارقام التي تريد حساب المتوسط الحسابي لها"
+input x
+print "ادخل الارقام التي تريد"
+i=1
+r=0
+while i<=x
+input y
+r=y+r
+i=i+1
+endwhile
+k=r/x
+print "المتوسط الحسابي هو "
+print k

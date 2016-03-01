@@ -1,0 +1,13 @@
+print "ادخل ثلاثة عشر ارقام لتعرف الارقم الاصغر من بينهم"
+i=1
+input c
+baby =c
+while i<10
+input c
+if c<baby then
+baby=c 
+endif
+i=i+1
+endwhile
+print "العدد الاصغر يساوي"
+print baby

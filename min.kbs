@@ -1,0 +1,13 @@
+i = 1
+print "أدخل الرقم"
+input min
+while i<=10 
+  print "أدخل الرقم"
+  input x
+  if x < min then
+     min = x
+  endif
+  i = i + 1  
+end while
+print "اصغر رقم هو"
+print x

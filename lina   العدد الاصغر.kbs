@@ -1,0 +1,43 @@
+print "ادخل عشرةارقام لتعرف الارقم الاصغر من بينهم"
+input a
+input b
+if a<b then
+baby=a 
+else 
+baby=b
+endif
+input c
+if c<baby then
+baby=c 
+endif
+input d
+if d<baby then
+baby=d 
+endif
+input e
+if e<baby then
+baby=e 
+endif
+input f
+if f<baby then
+baby=f 
+endif
+input g
+if g<baby then
+baby=g 
+endif
+input h
+if h<baby then
+baby=h 
+endif
+input i
+if i<baby then
+baby=i 
+endif
+input j 
+print "العدد الاصغر يساوي"
+if j<baby then
+print j
+else
+print baby
+endif

@@ -1,0 +1,10 @@
+clg
+i=1
+while i<=100000
+x=rand*300
+y=rand*300
+l=rand*50
+color rand *green
+circle x,y, l
+i=i+1
+endwhile
